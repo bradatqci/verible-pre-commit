@@ -1,0 +1,5 @@
+- id: verible-formatter
+  name: verible formatter
+  description: applies verible formatter
+  entry: run-verible-formatter
+  language: python
