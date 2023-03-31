@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: verible-pre-commit-hooks
-Version: 0.0.1
-Summary: Some out-of-the-box hooks for pre-commit.
-License: MIT
-Requires-Python: >=3.7
-Description-Content-Type: text/markdown

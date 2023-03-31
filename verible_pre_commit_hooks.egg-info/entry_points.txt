@@ -1,2 +1,0 @@
-[console_scripts]
-run-verible-formatter = pre_commit_hooks.run_verible_formatter:main
